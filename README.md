@@ -1,5 +1,9 @@
 # kan-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/kan-or-just-updated-trello-alternative-y?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Kan template](https://railway.com/deploy/kan-or-just-updated-trello-alternative-y?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image over [Kan](https://github.com/kanbn/kan) for Railway, built for the
 `Kan | (Just Updated) Trello Alternative You Can Actually Sign Into` template.
 
